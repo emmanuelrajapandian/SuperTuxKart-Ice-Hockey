@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pillow = "*"
+future = "*"
+matplotlib = "*"
+numpy = "*"
+tensorboard = ">=1.14"
+torch = "==1.9.0"
+torchvision = ">=0.7.0"
+pysupertuxkart = "*"
+imageio = "*"
+imageio-ffmpeg = "*"
+av = "*"
+shimmy = "*"
+ray = "*"
+
+[dev-packages]
+ipykernel = "*"
+
+[requires]
+python_version = "3.9"
