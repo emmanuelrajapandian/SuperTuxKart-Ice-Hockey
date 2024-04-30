@@ -10,6 +10,4 @@ state of the game rather than the visual input from the player’s field of view
 ### Gameplay 
 Our team, represented by the blue players, faces off against the formidable Jurgen agent, represented by the red players, known as the strongest contender in the pool. Our agent demonstrates commendable performance both in defense and attack. This accomplishment was made possible through the integration of REINFORCE, layered atop imitation learning from the top-performing agent.
 
-<p align="center">
-  <img src="https://github.com/emmanuelrajapandian/SuperTuxKart-Ice-Hockey/blob/main/tournament-run.gif" alt="animated" />
-</p>
+![](https://github.com/emmanuelrajapandian/SuperTuxKart-Ice-Hockey/blob/main/tournament-run.gif)
